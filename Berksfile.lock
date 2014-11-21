@@ -1,0 +1,7 @@
+DEPENDENCIES
+  opsworks-logstash
+    path: .
+    metadata: true
+
+GRAPH
+  opsworks-logstash (0.0.0)
